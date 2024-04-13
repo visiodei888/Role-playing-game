@@ -7,4 +7,4 @@ This is a very basic Role Playing Game(RPG) that I built using HTML, CSS and JAV
 6) User can sell weapons to earn gold
 7) There is an additional easter egg feature hidden in the game. (Play to find out!)
 
-Check it out @ rpg-dragon.vercel.app
+Check it out @ https://rpg-dragon.vercel.app/
